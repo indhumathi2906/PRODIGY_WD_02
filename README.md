@@ -17,7 +17,7 @@ HTML5 – For structure
 
 CSS3 – For styling and layout
 
-JavaScript (Vanilla) – For stopwatch logic and interactivity
+JavaScript  – For stopwatch logic and interactivity
 
 📂 Use Cases
 Practice project for beginners learning JavaScript
