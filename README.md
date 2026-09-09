@@ -1,5 +1,5 @@
 ⏱️ Stopwatch Application – GitHub Project Description
-This project is a simple, responsive Stopwatch Application built using HTML, CSS, and JavaScript. It allows users to start, stop, reset, and track elapsed time with precision. Designed with clean UI and lightweight code, it’s ideal for learning basic JavaScript timing functions and DOM man
+This project is a simple, responsive Stopwatch Application built using HTML, CSS, and JavaScript. It allows users to start, stop, reset, and track elapsed time with precision. Designed with clean UI and lightweight code, it’s ideal for learning basic JavaScript timing functions and DOM ma
 
 🔍 Features
 ✅ Start / Stop / Reset Controls
