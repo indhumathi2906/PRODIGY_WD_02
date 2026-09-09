@@ -4,7 +4,7 @@ This project is a simple, responsive Stopwatch Application built using HTML, CSS
 🔍 Features
 ✅ Start / Stop / Reset Controls
 
-⌛ Accurate Time Tracking (Minutes, Seconds, Milliseconds)
+ Accurate Time Tracking (Minutes, Seconds, Milliseconds)
 
 🔄 Lap Timer (Optional, if implemented)
 
