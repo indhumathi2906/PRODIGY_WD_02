@@ -29,7 +29,7 @@ Can be extended into a Pomodoro timer or interval trainer
 🚀 How to Use
 Clone the repository
 
-bash
+bas
 Copy
 Edit
 git clone https://github.com/your-username/stopwatch-app.git
