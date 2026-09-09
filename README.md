@@ -27,7 +27,7 @@ Timer for productivity tasks or basic time tracking
 Can be extended into a Pomodoro timer or interval trainer
 
 🚀 How to Use
-Clone the repository:
+Clone the repository
 
 bash
 Copy
